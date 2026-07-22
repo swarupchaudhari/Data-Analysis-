@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Swarup%20 Satish Chaudhari&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=60&descSize=18&color=0:020617,35:0F172A,70:1E293B,100:334155" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Swarup%20Chaudhari&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=60&descSize=18&color=0:020617,35:0F172A,70:1E293B,100:334155" width="100%"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=swarupchaudhari&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
