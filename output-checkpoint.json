@@ -1,0 +1,14 @@
+{
+    "name": "Bob",
+    "age": 30,
+    "is_employee": false,
+    "skills": [
+        "Javascript",
+        "Data Analysis",
+        "Machine learning"
+    ],
+    "address": {
+        "street": "543 Main St",
+        "city": "Springfield"
+    }
+}
